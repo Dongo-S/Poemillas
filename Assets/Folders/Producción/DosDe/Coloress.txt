@@ -1,0 +1,11 @@
+POLILLA C
+
+2b1b0f - café oscuro
+b4843f - amarillo
+6d3d20 - naranja
+
+POLILLA B
+
+4c3a25 - cafe oscuro
+c0a56e - Amarillo
+faf0d7 - blanco
